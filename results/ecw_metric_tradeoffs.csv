@@ -1,0 +1,7 @@
+Unnamed: 0,dataset,setting,d_AUPR,AUPR_ci,d_recall10,rec_ci
+0,Fdataset,warm start (held-out pairs),-0.0343,"[-0.046, -0.023]",0.0031,"[-0.020, +0.026]"
+1,Fdataset,new drugs,0.0201,"[-0.023, +0.063]",0.0137,"[-0.003, +0.030]"
+2,Fdataset,new diseases,0.0207,"[+0.008, +0.033]",0.024,"[-0.002, +0.050]"
+3,Cdataset,warm start (held-out pairs),-0.0568,"[-0.089, -0.024]",-0.007,"[-0.020, +0.006]"
+4,Cdataset,new drugs,0.0253,"[+0.022, +0.029]",0.0234,"[+0.004, +0.043]"
+5,Cdataset,new diseases,0.0291,"[-0.024, +0.082]",0.0163,"[-0.012, +0.045]"

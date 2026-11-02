@@ -1,0 +1,109 @@
+dataset,setting,model,metric,mean,n_seeds,n_folds,source_notebook,source_cell,note
+Fdataset,warm start (held-out pairs),B0,ROC-AUC,0.9095,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),W0,ROC-AUC,0.9054,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),B1,ROC-AUC,0.9032,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),UNI,ROC-AUC,0.9112,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),PERM,ROC-AUC,0.9032,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),ECW,ROC-AUC,0.9215,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),B0,AUPR,0.28,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),W0,AUPR,0.3002,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),B1,AUPR,0.2852,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),UNI,AUPR,0.3036,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),PERM,AUPR,0.2852,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),ECW,AUPR,0.2509,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),B0,recall@10,0.6303,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),W0,recall@10,0.6406,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),B1,recall@10,0.6255,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),UNI,recall@10,0.6468,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),PERM,recall@10,0.6255,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,warm start (held-out pairs),ECW,recall@10,0.6286,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,B0,ROC-AUC,0.7874,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,W0,ROC-AUC,0.7791,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,B1,ROC-AUC,0.779,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,UNI,ROC-AUC,0.79,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,PERM,ROC-AUC,0.779,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,ECW,ROC-AUC,0.8116,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,B0,AUPR,0.1868,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,W0,AUPR,0.1688,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,B1,AUPR,0.1753,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,UNI,AUPR,0.1767,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,PERM,AUPR,0.1753,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,ECW,AUPR,0.1954,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,B0,recall@10,0.3946,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,W0,recall@10,0.3851,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,B1,recall@10,0.384,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,UNI,recall@10,0.3929,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,PERM,recall@10,0.384,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new drugs,ECW,recall@10,0.3976,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,B0,ROC-AUC,0.7659,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,W0,ROC-AUC,0.7558,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,B1,ROC-AUC,0.7477,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,UNI,ROC-AUC,0.755,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,PERM,ROC-AUC,0.7477,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,ECW,ROC-AUC,0.8053,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,B0,AUPR,0.1844,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,W0,AUPR,0.1666,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,B1,AUPR,0.1577,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,UNI,AUPR,0.1666,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,PERM,AUPR,0.1577,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,ECW,AUPR,0.1783,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,B0,recall@10,0.2392,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,W0,recall@10,0.2312,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,B1,recall@10,0.2246,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,UNI,recall@10,0.2362,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,PERM,recall@10,0.2246,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Fdataset,new diseases,ECW,recall@10,0.2486,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),B0,ROC-AUC,0.9295,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),W0,ROC-AUC,0.9265,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),B1,ROC-AUC,0.9249,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),UNI,ROC-AUC,0.9336,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),PERM,ROC-AUC,0.9249,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),ECW,ROC-AUC,0.94,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),B0,AUPR,0.401,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),W0,AUPR,0.4166,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),B1,AUPR,0.4018,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),UNI,AUPR,0.4,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),PERM,AUPR,0.4018,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),ECW,AUPR,0.345,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),B0,recall@10,0.6669,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),W0,recall@10,0.6777,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),B1,recall@10,0.6709,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),UNI,recall@10,0.6876,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),PERM,recall@10,0.6709,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,warm start (held-out pairs),ECW,recall@10,0.6639,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,B0,ROC-AUC,0.7976,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,W0,ROC-AUC,0.7877,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,B1,ROC-AUC,0.7934,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,UNI,ROC-AUC,0.801,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,PERM,ROC-AUC,0.7934,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,ECW,ROC-AUC,0.8166,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,B0,AUPR,0.1989,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,W0,AUPR,0.1752,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,B1,AUPR,0.1759,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,UNI,AUPR,0.1755,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,PERM,AUPR,0.1759,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,ECW,AUPR,0.2012,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,B0,recall@10,0.3866,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,W0,recall@10,0.3676,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,B1,recall@10,0.3666,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,UNI,recall@10,0.3715,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,PERM,recall@10,0.3666,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new drugs,ECW,recall@10,0.39,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,B0,ROC-AUC,0.8318,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,W0,ROC-AUC,0.8208,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,B1,ROC-AUC,0.8174,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,UNI,ROC-AUC,0.8328,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,PERM,ROC-AUC,0.8174,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,ECW,ROC-AUC,0.8659,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,B0,AUPR,0.3472,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,W0,AUPR,0.3209,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,B1,AUPR,0.2982,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,UNI,AUPR,0.3048,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,PERM,AUPR,0.2982,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,ECW,AUPR,0.3274,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,B0,recall@10,0.3018,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,W0,recall@10,0.298,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,B1,recall@10,0.2798,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,UNI,recall@10,0.287,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,PERM,recall@10,0.2798,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.
+Cdataset,new diseases,ECW,recall@10,0.296,3,3,architectural-testing.ipynb,9,Reported means; output does not provide per-model standard deviations.

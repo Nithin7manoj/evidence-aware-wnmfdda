@@ -1,0 +1,7 @@
+Unnamed: 0,dataset,setting,label,evidence_vs_tuned_baseline,p_raw,label_vs_published,evidence_vs_published,p_holm
+0,Fdataset,warm start (held-out pairs),STRONG,"ECW - B1 = +0.0183 [+0.0135, +0.0230]",0.0086,POSITIVE,"ECW - B0 = +0.0120 [+0.0077, +0.0162]",0.0431
+1,Fdataset,new drugs,STRONG,"ECW - B1 = +0.0326 [+0.0230, +0.0422]",0.0048,STRONG,"ECW - B0 = +0.0242 [+0.0131, +0.0352]",0.0287
+2,Fdataset,new diseases,STRONG,"ECW - B1 = +0.0576 [+0.0272, +0.0880]",0.0106,STRONG,"ECW - B0 = +0.0394 [+0.0232, +0.0557]",0.0431
+3,Cdataset,warm start (held-out pairs),STRONG,"ECW - B1 = +0.0150 [+0.0120, +0.0180]",0.0096,POSITIVE,"ECW - B0 = +0.0104 [+0.0063, +0.0145]",0.0431
+4,Cdataset,new drugs,POSITIVE,"ECW - B1 = +0.0232 [+0.0068, +0.0395]",0.0371,POSITIVE,"ECW - B0 = +0.0190 [+0.0060, +0.0319]",0.059
+5,Cdataset,new diseases,POSITIVE,"ECW - B1 = +0.0485 [+0.0064, +0.0907]",0.0295,STRONG,"ECW - B0 = +0.0341 [+0.0303, +0.0379]",0.059
